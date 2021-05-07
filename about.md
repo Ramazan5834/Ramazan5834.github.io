@@ -1,19 +1,19 @@
 ---
-bg: "owl.jpg"
+bg: "cumhuriyet.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
+title: "Hakkımda"
+crawlertitle: ""
 permalink: /about/
-summary: "About this blog"
+summary: "Benim Hakkımda"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Cumhuriyet Üniversitesi.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Mühendislik Fakültesi.
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+Bilgisayar Mühendisliği İ.Ö.
+
+3.Sınıf
+
+
